@@ -1,12 +1,15 @@
 {
   "name": "ejs-challenge",
   "version": "1.0.0",
-  "description": "",
+  "description": "Prashants blog website",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "engines": {
+    "node": "16.13.1"
+  },
+  "author": "Prashant kumar",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
